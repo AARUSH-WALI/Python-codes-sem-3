@@ -1,4 +1,3 @@
-
 a=5
 print("Type of a:",type(a))
 b=5.0
@@ -13,7 +12,7 @@ f=("Miet","CSE","Student")
 print("Type of f:",type(f))
 g=range(10)
 print("Type of g:",type(g))
-h={"name":"Dhruv","age":21}
+h={"name":"Aarush","age":21}
 print("Type of h:",type(h))
 i={"Data","Types","Python"}
 print("Type of i:",type(i))
